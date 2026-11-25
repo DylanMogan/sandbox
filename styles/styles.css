@@ -1,0 +1,68 @@
+body {
+  width: 600px;
+  margin: 0;
+
+  font-family:
+    "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: #00376c;
+}
+
+h2 {
+  border-width: 0px 0px 2px 0px;
+  border-style: solid;
+  border-color: #7b7b7b;
+  text-align: center;
+}
+
+h3 {
+  border-style: solid;
+  color: #1577ff;
+  border-width: 0px 0px 2px 0px;
+  border-color: #1577ff;
+  display: inline;
+}
+
+.services p,
+footer {
+  font-style: italic;
+}
+
+footer {
+  text-align: center;
+  padding: 10px;
+}
+
+a {
+  color: #00376c;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+header {
+  border-width: 0px 0px 6px 0px;
+  border-color: #7b7b7b;
+  border-style: solid;
+  line-height: 80px;
+}
+
+header,
+footer {
+  text-align: center;
+  background-color: #c7e3ff;
+  margin-bottom: 40px;
+}
+
+.story,
+.locations,
+.services {
+  padding: 10px 10px 15px 15px;
+  margin-bottom: 40px;
+  background-color: #e7e7e7;
+}
+
+img {
+  width: 150px;
+}
